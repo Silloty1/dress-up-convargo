@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+text-align: center;
+background-image: url(http://images.4ever.eu/data/download/transport/carrefour-de-lautoroute,-route-de-nuit,-ville-dans-la-nuit-167737.jpg);
+
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: lightblue;
+    margin-left: 20px;
+}
+
+button{
+  text-align: center;
+  background-color: lightblue;
+
+}
+
+.name{
+  background-color:  lightblue;
+}
+
+.distance{
+  background-color: lightblue;
+}
+.volume{
+  background-color: lightblue;
+}
+
+.price-by-km
+{
+background-color: lightblue;
+}
+
+.price-by-cubic{
+  background-color: lightblue;
+}
+
+#actors{
+
+  color: red;
+}
+
+.cr{
+  text-align: left;
+
+}
+
+#footer{
+  color: white;
+  text-align: right;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+#Charge{
+  color: red;
+  background-color: black;
+}
